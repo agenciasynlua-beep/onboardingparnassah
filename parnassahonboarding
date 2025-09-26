@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1NfGrGnySggpVpR2tGepVgS0jkD-JuHIz/view?usp=sharing">
+    <title>Redirecionando...</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <p>Redirecionando para o Onboarding...</p>
+</body>
+</html>
